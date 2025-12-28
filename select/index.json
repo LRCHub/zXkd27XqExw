@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "友人A",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:11:42.283879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "友人A",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_友人A_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "友人A",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/02_友人A_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "友人A [Explicit]",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_友人A_[Explicit]_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友人A",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_友人A_CreepyNuts.txt"
+    }
+  ]
+}
